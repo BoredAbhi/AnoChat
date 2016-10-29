@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Abhijeet\AndroidStudioProjects\ChatAnonymus\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="C:\Users\Abhijeet\AndroidStudioProjects\ChatAnonymus\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-24.2.1_c2168b3185a0f5bdf0e356fec9fd97888c9a4808.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Abhijeet\AndroidStudioProjects\ChatAnonymus\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="C:\Users\Abhijeet\AndroidStudioProjects\ChatAnonymus\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-24.2.1_ec626f59fc14187ec7864c222f23d4b95b0913e6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Abhijeet\AndroidStudioProjects\ChatAnonymus\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.6.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="af7582c6b327449c6d32518e6a10307860b7b5d6">
+        <dex dex="C:\Users\Abhijeet\AndroidStudioProjects\ChatAnonymus\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-base-9.6.1_da30b1287baadf47fe42ab4fa0ceae708650ff0a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Abhijeet\AndroidStudioProjects\ChatAnonymus\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="C:\Users\Abhijeet\AndroidStudioProjects\ChatAnonymus\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-24.2.1_276c6e9da33ec54b0d22465729207c638a00b42c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Abhijeet\AndroidStudioProjects\ChatAnonymus\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.6.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="1e14ebe1cda8491f152083e752ca5bf73cd37bff">
+        <dex dex="C:\Users\Abhijeet\AndroidStudioProjects\ChatAnonymus\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-iid-9.6.1_1e3b72c5cfba90bb2d6c6830c1a72b6524964cb1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Abhijeet\AndroidStudioProjects\ChatAnonymus\app\build\intermediates\exploded-aar\com.android.support\design\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="C:\Users\Abhijeet\AndroidStudioProjects\ChatAnonymus\app\build\intermediates\pre-dexed\debug\com.android.support-design-24.2.1_9b4e1b4b85eb8dba8e862756e843c5bfad6dd45f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Abhijeet\AndroidStudioProjects\ChatAnonymus\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="C:\Users\Abhijeet\AndroidStudioProjects\ChatAnonymus\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.2.1_650fd6e910a7270bdfd446a9c4786755afd039df.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Abhijeet\AndroidStudioProjects\ChatAnonymus\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="C:\Users\Abhijeet\AndroidStudioProjects\ChatAnonymus\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-24.2.1_e8d2079f48cc1b2c2b223599f36881e923359f80.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Abhijeet\AndroidStudioProjects\ChatAnonymus\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.6.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="a1c351dc10b92d638da57f3a6513f87cfbdc9f83">
+        <dex dex="C:\Users\Abhijeet\AndroidStudioProjects\ChatAnonymus\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-analytics-9.6.1_784f618c1406aa4a3564d487e54746385c8c4519.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Abhijeet\AndroidStudioProjects\ChatAnonymus\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\9.6.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="0efd1b44f47c134fb245914a1d54a55adbfc2f8d">
+        <dex dex="C:\Users\Abhijeet\AndroidStudioProjects\ChatAnonymus\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-analytics-impl-9.6.1_db1acca943cf6215f48b078a03fd731953377bbc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Abhijeet\AndroidStudioProjects\ChatAnonymus\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database\9.6.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="b75ecdd04a37d31b4a0da2729fc5c558962a529b">
+        <dex dex="C:\Users\Abhijeet\AndroidStudioProjects\ChatAnonymus\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-database-9.6.1_b15fe77a1338e83e1d8de51bcdb3d90501143910.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Abhijeet\AndroidStudioProjects\ChatAnonymus\app\libs\firebase-client-android-2.5.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="b54cf0400e2248d6c133c7b0a77dea1be09978cc">
+        <dex dex="C:\Users\Abhijeet\AndroidStudioProjects\ChatAnonymus\app\build\intermediates\pre-dexed\debug\firebase-client-android-2.5.2_a0a4e628f592b09947d5a7d1c5fda86bfe3cafce.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Abhijeet\AndroidStudioProjects\ChatAnonymus\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="C:\Users\Abhijeet\AndroidStudioProjects\ChatAnonymus\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_923d692db2381a3328185a0c70d9ba01274dac64.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Users\Abhijeet\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="C:\Users\Abhijeet\AndroidStudioProjects\ChatAnonymus\app\build\intermediates\pre-dexed\debug\support-annotations-24.2.1_0bb772e38a5fe385d274745a8c7cdd659f78dea4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Abhijeet\AndroidStudioProjects\ChatAnonymus\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="C:\Users\Abhijeet\AndroidStudioProjects\ChatAnonymus\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-24.2.1_e2494f3dd25cc84ba9323e501eccff74242d4d36.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Abhijeet\AndroidStudioProjects\ChatAnonymus\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="C:\Users\Abhijeet\AndroidStudioProjects\ChatAnonymus\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-24.2.1_e3fb2dcbe8561cb96a6c7c0d16950dbad2db04fc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Abhijeet\AndroidStudioProjects\ChatAnonymus\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth\9.6.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="2a18547ea91d258866d132c2a763185f15b01b25">
+        <dex dex="C:\Users\Abhijeet\AndroidStudioProjects\ChatAnonymus\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-auth-9.6.1_0e400ffca1387755ed4c710aff35425aae5b8761.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Abhijeet\AndroidStudioProjects\ChatAnonymus\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth-common\9.6.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="77558e74bb2056ef38516296f13a27c4c4fc3e5c">
+        <dex dex="C:\Users\Abhijeet\AndroidStudioProjects\ChatAnonymus\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-auth-common-9.6.1_ba8afdaae749b3e4b1a4f4855b28fc064b73d9eb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Abhijeet\AndroidStudioProjects\ChatAnonymus\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.6.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="1ef72e72bc0d05602c366582afa9439f58bb31d6">
+        <dex dex="C:\Users\Abhijeet\AndroidStudioProjects\ChatAnonymus\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-common-9.6.1_67c14274f4d021fad4a0f4eef1114c77e137ed6f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Abhijeet\AndroidStudioProjects\ChatAnonymus\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth-module\9.6.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="6ffe8b28ab61e5ee92ab9431a220379790c71ddf">
+        <dex dex="C:\Users\Abhijeet\AndroidStudioProjects\ChatAnonymus\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-auth-module-9.6.1_cbce023254de5741b9f3dca81dea01483f01d77f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Abhijeet\AndroidStudioProjects\ChatAnonymus\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.6.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="eccaaa9ffa6bb4bfbd2e870f01aaf69655d353be">
+        <dex dex="C:\Users\Abhijeet\AndroidStudioProjects\ChatAnonymus\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-9.6.1_36e5046f78edc730b715e376931dad00ea7f491f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Abhijeet\AndroidStudioProjects\ChatAnonymus\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="C:\Users\Abhijeet\AndroidStudioProjects\ChatAnonymus\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_2f27ffe983d4823840bf1fe031d4163432e1f2c0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Abhijeet\AndroidStudioProjects\ChatAnonymus\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.6.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="4a36600281a648769411ef642c331851732bf29e">
+        <dex dex="C:\Users\Abhijeet\AndroidStudioProjects\ChatAnonymus\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-tasks-9.6.1_d8b498abafd4f9977d7c379d23b196532dc89dd3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Abhijeet\AndroidStudioProjects\ChatAnonymus\app\build\intermediates\exploded-aar\com.google.firebase\firebase-crash\9.6.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="4df40545c9b875855f3dd9d4928e5d07f07c20ba">
+        <dex dex="C:\Users\Abhijeet\AndroidStudioProjects\ChatAnonymus\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-crash-9.6.1_0cf9eabbd263029641b18764f395cbf21b08d4c8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Abhijeet\AndroidStudioProjects\ChatAnonymus\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="C:\Users\Abhijeet\AndroidStudioProjects\ChatAnonymus\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_8262114d1aa193bfb195f5c0f3f837c2522d90a2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Abhijeet\AndroidStudioProjects\ChatAnonymus\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database-connection\9.6.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="ac8365c87591065db07f7bac8551504504832cd4">
+        <dex dex="C:\Users\Abhijeet\AndroidStudioProjects\ChatAnonymus\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-database-connection-9.6.1_ed788897b4cad3250760aee3f23a997325d83f4d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Abhijeet\AndroidStudioProjects\ChatAnonymus\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Abhijeet\AndroidStudioProjects\ChatAnonymus\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.2.1_267aa052dc5503365c869638a0f2b378cca91f95.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Abhijeet\AndroidStudioProjects\ChatAnonymus\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="C:\Users\Abhijeet\AndroidStudioProjects\ChatAnonymus\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_6992daeb08d5a9cb57afca30d2ed63d2aa31fb7e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Abhijeet\AndroidStudioProjects\ChatAnonymus\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="C:\Users\Abhijeet\AndroidStudioProjects\ChatAnonymus\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-24.2.1_b1f21e14f13fbcc82b133531a69d04790a4dcc5a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Abhijeet\AndroidStudioProjects\ChatAnonymus\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="C:\Users\Abhijeet\AndroidStudioProjects\ChatAnonymus\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-24.2.1_a77d0df82b1f502e65872d7c970bc5ac06a2dbd3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Abhijeet\AndroidStudioProjects\ChatAnonymus\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="C:\Users\Abhijeet\AndroidStudioProjects\ChatAnonymus\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_1ea2b679a004e20a5da596a69b62ae9931a1dc63.jar" />
+    </item>
+
+</items>

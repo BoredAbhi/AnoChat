@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "887673521843",
+    "firebase_url": "https://chatanonymus.firebaseio.com",
+    "project_id": "chatanonymus",
+    "storage_bucket": "chatanonymus.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:887673521843:android:dda46190682ed820",
+        "android_client_info": {
+          "package_name": "com.example.abhijeet.chatanonymus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "887673521843-0lrna17qmncg8p0go7km1r9lchiudd0u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.abhijeet.chatanonymus",
+            "certificate_hash": "8FB9C572FA86098FF5874CD893A3B8660C20A6A6"
+          }
+        },
+        {
+          "client_id": "887673521843-na4bdronr0q9seofh9926pk91f7vdvbe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdnynLsosTEJfV1o5EZcjkOBPySTJIx20"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "887673521843-na4bdronr0q9seofh9926pk91f7vdvbe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
